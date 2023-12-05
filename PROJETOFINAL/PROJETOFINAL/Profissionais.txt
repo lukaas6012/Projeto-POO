@@ -1,0 +1,6 @@
+Jonas Damasceno=Medico
+Fernanda Costa=Enfermeira
+Chris=EasterEgg
+Heloisa Marcela=Engenheira CLinica
+Claudio Bernardo=Medico
+Oudrey Kandalhay=Enfermeiro
